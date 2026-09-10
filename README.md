@@ -1,1 +1,1 @@
-The thee files are to run a simulation in Webots to allow for a robot to navigate pass obstacles to its goal.
+Mazigator is a Webots simulation of an autonomous robot that uses A* path planning and infrared sensors to navigate around obstacles to reach a goal.
